@@ -1,0 +1,807 @@
+{
+    "map": {
+        "name": "Pilsen",
+        "spawn": "A"
+    },
+    "result": {
+        "name": "Victory",
+        "reason": "All vehicles destroyed",
+        "winner": 1
+    },
+    "subject": {
+        "name": "Whiskas_GJH",
+        "team": 1
+    },
+    "teams": [
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 1924,
+                        "battles": 35966,
+                        "winrate": 55.06
+                    },
+                    "name": "hugozet",
+                    "performance": {
+                        "assisted_dmg": 2218,
+                        "damage_dealt": 4269,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "Object 907",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 2551,
+                        "battles": 48,
+                        "damage": 3118,
+                        "winrate": 50.0
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 2352,
+                        "battles": 19557,
+                        "winrate": 55.72
+                    },
+                    "name": "pAvLeUe",
+                    "performance": {
+                        "assisted_dmg": 492,
+                        "damage_dealt": 3059,
+                        "lifetime": 198,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "Grille 15",
+                        "nation": "Germany",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 2172,
+                        "battles": 100,
+                        "damage": 2746,
+                        "winrate": 51.0
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 2503,
+                        "battles": 18319,
+                        "winrate": 57.56
+                    },
+                    "name": "Whiskas_GJH",
+                    "performance": {
+                        "assisted_dmg": 381,
+                        "damage_dealt": 1726,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "Kranvagn",
+                        "nation": "Sweden",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 2579,
+                        "battles": 61,
+                        "damage": 2718,
+                        "winrate": 52.46
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 2287,
+                        "battles": 24832,
+                        "winrate": 58.96
+                    },
+                    "name": "ChessRulez",
+                    "performance": {
+                        "assisted_dmg": 1613,
+                        "damage_dealt": 1580,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "STB-1",
+                        "nation": "Japan",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 2596,
+                        "battles": 56,
+                        "damage": 2784,
+                        "winrate": 51.79
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1823,
+                        "battles": 38107,
+                        "winrate": 53.7
+                    },
+                    "name": "Darinek",
+                    "performance": {
+                        "assisted_dmg": 394,
+                        "damage_dealt": 783,
+                        "lifetime": 124,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "IS-4",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1668,
+                        "battles": 852,
+                        "damage": 1948,
+                        "winrate": 46.83
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 829,
+                        "battles": 19670,
+                        "winrate": 50.87
+                    },
+                    "name": "Mrkozx",
+                    "performance": {
+                        "assisted_dmg": 181,
+                        "damage_dealt": 499,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "IS-7",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1382,
+                        "battles": 278,
+                        "damage": 1694,
+                        "winrate": 50.72
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 2410,
+                        "battles": 48410,
+                        "winrate": 57.25
+                    },
+                    "name": "Shibui",
+                    "performance": {
+                        "assisted_dmg": 427,
+                        "damage_dealt": 2847,
+                        "lifetime": 165,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "FV217 Badger",
+                        "nation": "United Kingdom",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 3525,
+                        "battles": 10,
+                        "damage": 3587,
+                        "winrate": 60.0
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 421,
+                        "battles": 33565,
+                        "winrate": 47.69
+                    },
+                    "name": "Praetorianguard3",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 791,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "Super Conqueror",
+                        "nation": "United Kingdom",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 218,
+                        "battles": 149,
+                        "damage": 793,
+                        "winrate": 34.9
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1220,
+                        "battles": 57646,
+                        "winrate": 48.03
+                    },
+                    "name": "srdac",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 1623,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "Jagdpanzer E 100",
+                        "nation": "Germany",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1385,
+                        "battles": 908,
+                        "damage": 1889,
+                        "winrate": 49.23
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1939,
+                        "battles": 24043,
+                        "winrate": 54.44
+                    },
+                    "name": "azylko",
+                    "performance": {
+                        "assisted_dmg": 1548,
+                        "damage_dealt": 1518,
+                        "lifetime": 206,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "Object 907",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 2459,
+                        "battles": 26,
+                        "damage": 2879,
+                        "winrate": 50.0
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1554,
+                        "battles": 17805,
+                        "winrate": 51.33
+                    },
+                    "name": "dyzma2",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 430,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "SPG",
+                        "name": "Bat.-Châtillon 155 58",
+                        "nation": "France",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1400,
+                        "battles": 738,
+                        "damage": 1636,
+                        "winrate": 45.66
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 722,
+                        "battles": 50252,
+                        "winrate": 47.59
+                    },
+                    "name": "alugancki",
+                    "performance": {
+                        "assisted_dmg": 1665,
+                        "damage_dealt": 1346,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "SPG",
+                        "name": "G.W. E 100",
+                        "nation": "Germany",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1111,
+                        "battles": 129,
+                        "damage": 1425,
+                        "winrate": 48.84
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1780,
+                        "battles": 21116,
+                        "winrate": 54.16
+                    },
+                    "name": "miravolf",
+                    "performance": {
+                        "assisted_dmg": 1496,
+                        "damage_dealt": 3273,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "Object 907",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 2752,
+                        "battles": 110,
+                        "damage": 2717,
+                        "winrate": 63.64
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1836,
+                        "battles": 82807,
+                        "winrate": 52.69
+                    },
+                    "name": "Rododendron111",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 3276,
+                        "lifetime": 214,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "Strv 103B",
+                        "nation": "Sweden",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1271,
+                        "battles": 133,
+                        "damage": 2116,
+                        "winrate": 50.38
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 2374,
+                        "battles": 40398,
+                        "winrate": 59.08
+                    },
+                    "name": "Shady811",
+                    "performance": {
+                        "assisted_dmg": 408,
+                        "damage_dealt": 1530,
+                        "lifetime": 173,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "IS-7",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 3160,
+                        "battles": 359,
+                        "damage": 2861,
+                        "winrate": 59.33
+                    }
+                }
+            ],
+            "team_id": 1
+        },
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 694,
+                        "battles": 5204,
+                        "winrate": 46.85
+                    },
+                    "name": "Ksandar",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 834,
+                        "lifetime": 153,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "Object 268",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 981,
+                        "battles": 37,
+                        "damage": 1502,
+                        "winrate": 54.05
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1550,
+                        "battles": 44010,
+                        "winrate": 50.45
+                    },
+                    "name": "Zoltank",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 529,
+                        "lifetime": 134,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "SPG",
+                        "name": "T92 HMC",
+                        "nation": "USA",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1487,
+                        "battles": 736,
+                        "damage": 1563,
+                        "winrate": 49.32
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1250,
+                        "battles": 9034,
+                        "winrate": 50.66
+                    },
+                    "name": "Gi0xy",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 435,
+                        "lifetime": 142,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "IS-7",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1541,
+                        "battles": 203,
+                        "damage": 1831,
+                        "winrate": 50.74
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 2902,
+                        "battles": 34186,
+                        "winrate": 59.81
+                    },
+                    "name": "HeesHealer",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 3269,
+                        "lifetime": 209,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "121B",
+                        "nation": "China",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 4390,
+                        "battles": 183,
+                        "damage": 3517,
+                        "winrate": 68.31
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 810,
+                        "battles": 30895,
+                        "winrate": 48.0
+                    },
+                    "name": "monodile",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 572,
+                        "lifetime": 200,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "T110E5",
+                        "nation": "USA",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 889,
+                        "battles": 1044,
+                        "damage": 1277,
+                        "winrate": 44.64
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1636,
+                        "battles": 25738,
+                        "winrate": 51.44
+                    },
+                    "name": "PanceRide",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 3057,
+                        "lifetime": 184,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "AMX M4 mle. 54",
+                        "nation": "France",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 2229,
+                        "battles": 204,
+                        "damage": 2719,
+                        "winrate": 49.51
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1488,
+                        "battles": 44968,
+                        "winrate": 50.59
+                    },
+                    "name": "zyrnad",
+                    "performance": {
+                        "assisted_dmg": 385,
+                        "damage_dealt": 1176,
+                        "lifetime": 148,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "Leopard 1",
+                        "nation": "Germany",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 2736,
+                        "battles": 57,
+                        "damage": 2518,
+                        "winrate": 59.65
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1781,
+                        "battles": 23171,
+                        "winrate": 53.93
+                    },
+                    "name": "Jakozki",
+                    "performance": {
+                        "assisted_dmg": 228,
+                        "damage_dealt": 1184,
+                        "lifetime": 201,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "121B",
+                        "nation": "China",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1840,
+                        "battles": 33,
+                        "damage": 2186,
+                        "winrate": 51.52
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1550,
+                        "battles": 54835,
+                        "winrate": 51.68
+                    },
+                    "name": "kilpuri",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 0,
+                        "lifetime": 173,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "FV215b (183)",
+                        "nation": "United Kingdom",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1601,
+                        "battles": 491,
+                        "damage": 2021,
+                        "winrate": 49.9
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1123,
+                        "battles": 35072,
+                        "winrate": 50.15
+                    },
+                    "name": "rizecekp",
+                    "performance": {
+                        "assisted_dmg": 321,
+                        "damage_dealt": 243,
+                        "lifetime": 113,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "SPG",
+                        "name": "G.W. E 100",
+                        "nation": "Germany",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 959,
+                        "battles": 23,
+                        "damage": 1237,
+                        "winrate": 47.83
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 878,
+                        "battles": 14806,
+                        "winrate": 47.78
+                    },
+                    "name": "Miften",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 2078,
+                        "lifetime": 161,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "E 100",
+                        "nation": "Germany",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1277,
+                        "battles": 218,
+                        "damage": 1687,
+                        "winrate": 47.25
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 752,
+                        "battles": 19056,
+                        "winrate": 45.99
+                    },
+                    "name": "_ULUHAKAN_",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 1919,
+                        "lifetime": 128,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "Jagdpanzer E 100",
+                        "nation": "Germany",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1262,
+                        "battles": 276,
+                        "damage": 1835,
+                        "winrate": 46.01
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 1631,
+                        "battles": 26473,
+                        "winrate": 51.11
+                    },
+                    "name": "amater1987",
+                    "performance": {
+                        "assisted_dmg": 947,
+                        "damage_dealt": 906,
+                        "lifetime": 115,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "TVP T 50/51",
+                        "nation": "Czechoslovakia",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1437,
+                        "battles": 38,
+                        "damage": 1955,
+                        "winrate": 44.74
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 2469,
+                        "battles": 5096,
+                        "winrate": 58.26
+                    },
+                    "name": "rudus121234",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 2941,
+                        "lifetime": 196,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "IS-7",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 3472,
+                        "battles": 47,
+                        "damage": 3113,
+                        "winrate": 65.96
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 907,
+                        "battles": 48529,
+                        "winrate": 48.45
+                    },
+                    "name": "eeeoooop",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 418,
+                        "lifetime": 63,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "Strv 103B",
+                        "nation": "Sweden",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 868,
+                        "battles": 286,
+                        "damage": 1524,
+                        "winrate": 51.75
+                    }
+                }
+            ],
+            "team_id": 2
+        }
+    ]
+}
