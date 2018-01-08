@@ -23,6 +23,8 @@ f.close()
 
 type_table = {"Medium Tank" : 1, "Heavy Tank" : 1, "Light Tank" : 1, "Tank Destroyer" : 1, "SPG" : 1}
 n = {"USSR" : 1, 'France' : 1, 'USA' : 1, 'Sweden' : 1, 'Japan' : 1, 'Germany' : 1, 'United Kingdom' : 1, 'China' : 1, 'Czechoslovakia' : 1, 'Poland' : 1}
+map_type = {"Medium Tank" : ["open"], "Heavy Tank" : ['city', 'corridor'], 'Light Tank' : ['open'], "Tank Destroyer" : ['open',], 'SPG' : ['open', 'large']}
+
 correct, total = 0, 0
 t = len(os.listdir("./replays_simple"))
 i = 0
@@ -42,9 +44,28 @@ for filename in os.listdir("./replays_simple"):
 	winner = j['result']['winner']
 	temp = []
 
+	acc = 0
+	for p in j['teams'][0]['players']:
+		tank_strength = 1
+		for t in map_type[p['tank']['category']]:
+			if t in maps[j['map']['name']]['tags']:
+				continue
+				tank_strength += 0.1
+		acc += math.pow(p['tank_stats']['winrate'] * vba[unidecode(p['tank']['name'])],tank_strength)
+	temp.append([acc, j['teams'][0]['team_id']])
+	acc = 0
+	for p in j['teams'][1]['players']:
+		tank_strength = 1
+		for t in map_type[p['tank']['category']]:
+			if t in maps[j['map']['name']]['tags']:
+				continue
+				tank_strength += 0.1
+		acc += math.pow(p['tank_stats']['winrate'] * vba[unidecode(p['tank']['name'])],tank_strength)
+	temp.append([acc, j['teams'][1]['team_id']])
+
 	
-	temp.append([sum([n[p['tank']['nation']] * p['tank_stats']['winrate'] * vba[unidecode(p['tank']['name'])] for p in j['teams'][0]['players']]), j['teams'][0]['team_id']])
-	temp.append([sum([n[p['tank']['nation']] * p['tank_stats']['winrate'] * vba[unidecode(p['tank']['name'])] for p in j['teams'][1]['players']]), j['teams'][1]['team_id']])
+	#temp.append([sum([p['tank_stats']['WN8'] * p['tank_stats']['winrate'] * vba[unidecode(p['tank']['name'])] for p in j['teams'][0]['players']]), j['teams'][0]['team_id']])
+	#temp.append([sum([p['tank_stats']['WN8'] * p['tank_stats']['winrate'] * vba[unidecode(p['tank']['name'])] for p in j['teams'][1]['players']]), j['teams'][1]['team_id']])
 
 	"""
 	for team, i in zip(j['teams'], [0,1]):
@@ -72,7 +93,7 @@ print("Average rating diff for correct {0}".format(avg_correct_diff / correct))
 
 
 
-
+"""
 tanks_encountered = {}
 maps_encountered = {}
 for filename in os.listdir("./replays_simple"):
@@ -104,3 +125,4 @@ for m in maps:
 f = open("./map_data.json", 'w')
 f.write(json.dumps(maps, indent=4, sort_keys=True, ensure_ascii=False))
 f.close()
+"""
