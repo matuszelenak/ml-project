@@ -1,346 +1,326 @@
 {
     "Abbey": {
-        "A": 50.68,
-        "B": 48.74,
-        "tags": [
-            "city",
-            "large"
-        ]
+        "Standard Battle": {
+            "A": 50.8,
+            "B": 48.28
+        }
     },
     "Airfield": {
-        "A": 48.66,
-        "B": 49.51,
-        "tags": [
-            "large",
-            "open"
-        ]
+        "Standard Battle": {
+            "A": 49.28,
+            "B": 49.22
+        }
     },
     "Arctic Region": {
-        "A": 48.49,
-        "B": 51.21,
-        "tags": [
-            "large",
-            "open"
-        ]
+        "Standard Battle": {
+            "A": 48.11,
+            "B": 51.22
+        }
     },
     "Cliff": {
-        "A": 51.21,
-        "B": 47.91,
-        "tags": [
-            "corridor",
-            "large"
-        ]
+        "Standard Battle": {
+            "A": 51.2,
+            "B": 47.85
+        }
     },
     "El Halluf": {
-        "A": 52.31,
-        "B": 46.89,
-        "tags": [
-            "large",
-            "open"
-        ]
+        "Encounter Battle": {
+            "A": 54.22,
+            "B": 46.46
+        },
+        "Standard Battle": {
+            "A": 50.5,
+            "B": 47.59
+        }
     },
     "Ensk": {
-        "A": 48.95,
-        "B": 51.04,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
+        "Encounter Battle": {
+            "A": 47.91,
+            "B": 52.87
+        },
+        "Standard Battle": {
+            "A": 49.1,
+            "B": 50.33
+        }
     },
     "Erlenberg": {
-        "A": 48.4,
-        "B": 51.09,
-        "tags": [
-            "large",
-            "open",
-            "corridor"
-        ]
+        "Assault": {
+            "A": 46.75,
+            "B": 53.02
+        },
+        "Encounter Battle": {
+            "A": 42.61,
+            "B": 57.31
+        },
+        "Standard Battle": {
+            "A": 52.68,
+            "B": 45.02
+        }
     },
     "Fiery Salient": {
-        "A": 48.06,
-        "B": 50.21,
-        "tags": [
-            "large",
-            "open"
-        ]
+        "Encounter Battle": {
+            "A": 51.19,
+            "B": 48.25
+        },
+        "Standard Battle": {
+            "A": 45.66,
+            "B": 51.74
+        }
     },
     "Fisherman's Bay": {
-        "A": 52.37,
-        "B": 46.09,
-        "tags": [
-            "large",
-            "city",
-            "open"
-        ]
+        "Standard Battle": {
+            "A": 52.39,
+            "B": 46.18
+        }
     },
     "Fjords": {
-        "A": 50.93,
-        "B": 48.83,
-        "tags": [
-            "large",
-            "city",
-            "open"
-        ]
+        "Standard Battle": {
+            "A": 51.19,
+            "B": 48.45
+        }
     },
     "Highway": {
-        "A": 54.51,
-        "B": 44.85,
-        "tags": [
-            "large",
-            "open",
-            "city"
-        ]
+        "Standard Battle": {
+            "A": 54.37,
+            "B": 44.98
+        }
     },
     "Himmelsdorf": {
-        "A": 50.12,
-        "B": 49.67,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
-    },
-    "Karelia": {
-        "A": 50.64,
-        "B": 48.89,
-        "tags": [
-            "large",
-            "open"
-        ]
-    },
-    "Kharkov": {
-        "A": 51.15,
-        "B": 49.09,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
-    },
-    "Lakeville": {
-        "A": 46.94,
-        "B": 52.74,
-        "tags": [
-            "large",
-            "open",
-            "city",
-            "corridor"
-        ]
-    },
-    "Live Oaks": {
-        "A": 53.84,
-        "B": 45.5,
-        "tags": [
-            "large",
-            "city",
-            "open"
-        ]
-    },
-    "Malinovka": {
-        "A": 48.26,
-        "B": 49.07,
-        "tags": [
-            "large",
-            "open"
-        ]
-    },
-    "Mines": {
-        "A": 43.8,
-        "B": 55.69,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
-    },
-    "Mittengard": {
-        "A": 46.01,
-        "B": 53.11,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
-    },
-    "Mountain Pass": {
-        "A": 46.2,
-        "B": 52.83,
-        "tags": [
-            "city",
-            "large"
-        ]
-    },
-    "Murovanka": {
-        "A": 46.34,
-        "B": 53.62,
-        "tags": [
-            "large",
-            "open"
-        ]
-    },
-    "Overlord": {
-        "A": 53.66,
-        "B": 45.96,
-        "tags": [
-            "large",
-            "open",
-            "corridor"
-        ]
-    },
-    "Paris": {
-        "A": 48.71,
-        "B": 50.89,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
-    },
-    "Pilsen": {
-        "A": 49.6,
-        "B": 49.5,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
-    },
-    "Prokhorovka": {
-        "A": 46.21,
-        "B": 52.3,
-        "tags": [
-            "large",
-            "open"
-        ]
-    },
-    "Redshire": {
-        "A": 51.56,
-        "B": 47.71,
-        "tags": [
-            "large",
-            "open",
-            "corridor"
-        ]
-    },
-    "Ruinberg": {
-        "A": 52.58,
-        "B": 46.93,
-        "tags": [
-            "small",
-            "corridor",
-            "city"
-        ]
-    },
-    "Sacred Valley": {
-        "A": 48.03,
-        "B": 51.66,
-        "tags": [
-            "large",
-            "corridor"
-        ]
-    },
-    "Sand River": {
-        "A": 53.5,
-        "B": 45.92,
-        "tags": [
-            "large",
-            "open"
-        ]
-    },
-    "Serene Coast": {
-        "A": 51.74,
-        "B": 47.66,
-        "tags": [
-            "large",
-            "open"
-        ]
-    },
-    "Siegfried Line": {
-        "A": 53.11,
-        "B": 46.75,
-        "tags": [
-            "large",
-            "city",
-            "open"
-        ]
-    },
-    "Stalingrad": {
-        "A": 48.8,
-        "B": 51.05,
-        "tags": [
-            "large",
-            "city",
-            "corridor"
-        ]
-    },
-    "Steppes": {
-        "A": 55.05,
-        "B": 44.79,
-        "tags": [
-            "large",
-            "open"
-        ]
-    },
-    "Swamp": {
-        "A": 52.53,
-        "B": 46.87,
-        "tags": [
-            "large",
-            "open",
-            "city"
-        ]
-    },
-    "Tundra": {
-        "A": 48.0,
-        "B": 51.8,
-        "tags": [
-            "small",
-            "corridor"
-        ]
-    },
-    "Westfield": {
-        "A": 44.95,
-        "B": 54.63,
-        "tags": [
-            "large",
-            "open"
-        ]
-    },
-    "Widepark": {
-        "A": 50.44,
-        "B": 48.9,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
-    },
-    "Windstorm": {
-        "A": 49.8,
-        "B": 49.83,
-        "tags": [
-            "city",
-            "corridor",
-            "large"
-        ]
+        "Encounter Battle": {
+            "A": 47.16,
+            "B": 53.16
+        },
+        "Standard Battle": {
+            "A": 52.52,
+            "B": 47.14
+        }
     },
     "Winter Himmelsdorf": {
-        "A": 50.22,
-        "B": 49.68,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
+        "Encounter Battle": {
+            "A": 46.89,
+            "B": 53.48
+        },
+        "Standard Battle": {
+            "A": 53.02,
+            "B": 46.31
+        }
+    },
+    "Karelia": {
+        "Assault": {
+            "A": 55.1,
+            "B": 44.98
+        },
+        "Standard Battle": {
+            "A": 47.29,
+            "B": 51.93
+        }
+    },
+    "Kharkov": {
+        "Standard Battle": {
+            "A": 51.51,
+            "B": 48.68
+        }
+    },
+    "Lakeville": {
+        "Encounter Battle": {
+            "A": 49.35,
+            "B": 50.77
+        },
+        "Standard Battle": {
+            "A": 46.7,
+            "B": 52.67
+        }
+    },
+    "Live Oaks": {
+        "Standard Battle": {
+            "A": 53.61,
+            "B": 45.8
+        }
+    },
+    "Malinovka": {
+        "Encounter Battle": {
+            "A": 50.01,
+            "B": 48.46
+        },
+        "Standard Battle": {
+            "A": 45.29,
+            "B": 50.78
+        }
+    },
+    "Mines": {
+        "Encounter Battle": {
+            "A": 39.43,
+            "B": 60.5
+        },
+        "Standard Battle": {
+            "A": 46.43,
+            "B": 52.55
+        }
+    },
+    "Mittengard": {
+        "Standard Battle": {
+            "A": 47.73,
+            "B": 51.52
+        }
+    },
+    "Mountain Pass": {
+        "Standard Battle": {
+            "A": 46.16,
+            "B": 53.04
+        }
+    },
+    "Murovanka": {
+        "Encounter Battle": {
+            "A": 47.99,
+            "B": 52.72
+        },
+        "Standard Battle": {
+            "A": 45.41,
+            "B": 54.69
+        }
+    },
+    "Overlord": {
+        "Standard Battle": {
+            "A": 53.61,
+            "B": 46.02
+        }
+    },
+    "Paris": {
+        "Standard Battle": {
+            "A": 48.56,
+            "B": 50.78
+        }
+    },
+    "Pilsen": {
+        "Standard Battle": {
+            "A": 49.69,
+            "B": 49.63
+        }
+    },
+    "Prokhorovka": {
+        "Encounter Battle": {
+            "A": 48.13,
+            "B": 50.89
+        },
+        "Standard Battle": {
+            "A": 45.57,
+            "B": 52.75
+        }
+    },
+    "Redshire": {
+        "Encounter Battle": {
+            "A": 52.76,
+            "B": 47.31
+        },
+        "Standard Battle": {
+            "A": 50.63,
+            "B": 47.88
+        }
+    },
+    "Ruinberg": {
+        "Encounter Battle": {
+            "A": 51.4,
+            "B": 48.79
+        },
+        "Standard Battle": {
+            "A": 52.61,
+            "B": 46.69
+        }
+    },
+    "Sacred Valley": {
+        "Standard Battle": {
+            "A": 47.36,
+            "B": 52.02
+        }
+    },
+    "Sand River": {
+        "Assault": {
+            "A": 62.54,
+            "B": 37.72
+        },
+        "Encounter Battle": {
+            "A": 47.34,
+            "B": 51.83
+        },
+        "Standard Battle": {
+            "A": 50.17,
+            "B": 49.44
+        }
+    },
+    "Serene Coast": {
+        "Standard Battle": {
+            "A": 51.34,
+            "B": 47.92
+        }
+    },
+    "Siegfried Line": {
+        "Assault": {
+            "A": 49.85,
+            "B": 50.24
+        },
+        "Encounter Battle": {
+            "A": 55.99,
+            "B": 43.77
+        },
+        "Standard Battle": {
+            "A": 54.93,
+            "B": 45.12
+        }
+    },
+    "Stalingrad": {
+        "Standard Battle": {
+            "A": 48.71,
+            "B": 51.06
+        }
+    },
+    "Steppes": {
+        "Encounter Battle": {
+            "A": 58.05,
+            "B": 41.94
+        },
+        "Standard Battle": {
+            "A": 53.07,
+            "B": 46.63
+        }
+    },
+    "Swamp": {
+        "Standard Battle": {
+            "A": 52.14,
+            "B": 47.01
+        }
+    },
+    "Tundra": {
+        "Standard Battle": {
+            "A": 47.78,
+            "B": 51.68
+        }
+    },
+    "Westfield": {
+        "Standard Battle": {
+            "A": 45.29,
+            "B": 54.66
+        }
+    },
+    "Widepark": {
+        "Standard Battle": {
+            "A": 48.94,
+            "B": 50.29
+        }
+    },
+    "Windstorm": {
+        "Standard Battle": {
+            "A": 49.64,
+            "B": 49.95
+        }
     },
     "Winterberg": {
-        "A": 50.5,
-        "B": 49.09,
-        "tags": [
-            "small",
-            "city",
-            "corridor"
-        ]
+        "Encounter Battle": {
+            "A": 51.27,
+            "B": 48.79
+        },
+        "Standard Battle": {
+            "A": 50.1,
+            "B": 49.01
+        }
     }
 }

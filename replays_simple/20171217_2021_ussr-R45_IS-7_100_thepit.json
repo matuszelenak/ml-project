@@ -1,0 +1,81 @@
+{
+    "map": {
+        "mode": "Standard Battle",
+        "name": "Mittengard"
+    },
+    "result": {
+        "name": "Victory",
+        "reason": "All vehicles destroyed",
+        "winner": 2
+    },
+    "subject": {
+        "name": "odiemor",
+        "team": 2
+    },
+    "teams": [
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 222,
+                        "battles": 1746,
+                        "winrate": 45.42
+                    },
+                    "name": "rowienoodle",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 644,
+                        "lifetime": 240,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "SPG",
+                        "name": "AMX 13 F3 AM",
+                        "nation": "France",
+                        "tier": 6
+                    },
+                    "tank_stats": {
+                        "WN8": 216,
+                        "battles": 93,
+                        "damage": 303,
+                        "winrate": 44.09
+                    }
+                }
+            ],
+            "spawn": "A",
+            "team_id": 1
+        },
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 1087,
+                        "battles": 16807,
+                        "winrate": 50.15
+                    },
+                    "name": "odiemor",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 226,
+                        "lifetime": 245,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "IS-7",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1225,
+                        "battles": 34,
+                        "damage": 1640,
+                        "winrate": 38.24
+                    }
+                }
+            ],
+            "spawn": "B",
+            "team_id": 2
+        }
+    ]
+}

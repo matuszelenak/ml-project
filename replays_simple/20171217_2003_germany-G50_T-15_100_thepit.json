@@ -1,0 +1,81 @@
+{
+    "map": {
+        "mode": "Standard Battle",
+        "name": "Mittengard"
+    },
+    "result": {
+        "name": "Victory",
+        "reason": "All vehicles destroyed",
+        "winner": 2
+    },
+    "subject": {
+        "name": "odiemor",
+        "team": 2
+    },
+    "teams": [
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 222,
+                        "battles": 1746,
+                        "winrate": 45.42
+                    },
+                    "name": "rowienoodle",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 256,
+                        "lifetime": 472,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "T26E4 SuperPershing",
+                        "nation": "USA",
+                        "tier": 8
+                    },
+                    "tank_stats": {
+                        "WN8": 251,
+                        "battles": 183,
+                        "damage": 378,
+                        "winrate": 45.36
+                    }
+                }
+            ],
+            "spawn": "A",
+            "team_id": 1
+        },
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 1087,
+                        "battles": 16807,
+                        "winrate": 50.15
+                    },
+                    "name": "odiemor",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 1500,
+                        "lifetime": 477,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Light Tank",
+                        "name": "Pz.Kpfw. T 15",
+                        "nation": "Germany",
+                        "tier": 3
+                    },
+                    "tank_stats": {
+                        "WN8": 897,
+                        "battles": 98,
+                        "damage": 179,
+                        "winrate": 61.22
+                    }
+                }
+            ],
+            "spawn": "B",
+            "team_id": 2
+        }
+    ]
+}

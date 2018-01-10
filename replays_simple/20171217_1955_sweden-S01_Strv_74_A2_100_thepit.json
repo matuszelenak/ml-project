@@ -1,0 +1,81 @@
+{
+    "map": {
+        "mode": "Standard Battle",
+        "name": "Mittengard"
+    },
+    "result": {
+        "name": "Defeat",
+        "reason": "All vehicles destroyed",
+        "winner": 1
+    },
+    "subject": {
+        "name": "odiemor",
+        "team": 2
+    },
+    "teams": [
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 222,
+                        "battles": 1746,
+                        "winrate": 45.42
+                    },
+                    "name": "rowienoodle",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 700,
+                        "lifetime": 322,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Tank Destroyer",
+                        "name": "Jagdpanzer IV",
+                        "nation": "Germany",
+                        "tier": 6
+                    },
+                    "tank_stats": {
+                        "WN8": 284,
+                        "battles": 164,
+                        "damage": 268,
+                        "winrate": 46.95
+                    }
+                }
+            ],
+            "spawn": "A",
+            "team_id": 1
+        },
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 1087,
+                        "battles": 16807,
+                        "winrate": 50.15
+                    },
+                    "name": "odiemor",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 547,
+                        "lifetime": 317,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "Strv m/42-57 Alt A.2",
+                        "nation": "Sweden",
+                        "tier": 6
+                    },
+                    "tank_stats": {
+                        "WN8": 1150,
+                        "battles": 158,
+                        "damage": 625,
+                        "winrate": 57.59
+                    }
+                }
+            ],
+            "spawn": "B",
+            "team_id": 2
+        }
+    ]
+}

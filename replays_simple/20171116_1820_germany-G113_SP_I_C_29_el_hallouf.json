@@ -1,7 +1,7 @@
 {
     "map": {
-        "name": "El Halluf",
-        "spawn": "B"
+        "mode": "Encounter Battle",
+        "name": "El Halluf"
     },
     "result": {
         "name": "Victory",
@@ -406,6 +406,7 @@
                     }
                 }
             ],
+            "spawn": "A",
             "team_id": 1
         },
         {
@@ -801,6 +802,7 @@
                     }
                 }
             ],
+            "spawn": "B",
             "team_id": 2
         }
     ]

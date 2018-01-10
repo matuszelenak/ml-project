@@ -1,0 +1,107 @@
+{
+    "map": {
+        "mode": "Standard Battle",
+        "name": "Mittengard"
+    },
+    "result": {
+        "name": "Defeat",
+        "reason": "All vehicles destroyed",
+        "winner": 1
+    },
+    "subject": {
+        "name": "odiemor",
+        "team": 2
+    },
+    "teams": [
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 548,
+                        "battles": 3433,
+                        "winrate": 50.36
+                    },
+                    "name": "Jacesix",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 1486,
+                        "lifetime": 278,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "Cromwell",
+                        "nation": "United Kingdom",
+                        "tier": 6
+                    },
+                    "tank_stats": {
+                        "WN8": 299,
+                        "battles": 84,
+                        "damage": 293,
+                        "winrate": 40.48
+                    }
+                },
+                {
+                    "general_stats": {
+                        "WN8": 222,
+                        "battles": 1746,
+                        "winrate": 45.42
+                    },
+                    "name": "rowienoodle",
+                    "performance": {
+                        "assisted_dmg": 119,
+                        "damage_dealt": 914,
+                        "lifetime": 391,
+                        "survived": true
+                    },
+                    "tank": {
+                        "category": "Medium Tank",
+                        "name": "T26E4 SuperPershing",
+                        "nation": "USA",
+                        "tier": 8
+                    },
+                    "tank_stats": {
+                        "WN8": 251,
+                        "battles": 183,
+                        "damage": 378,
+                        "winrate": 45.36
+                    }
+                }
+            ],
+            "spawn": "A",
+            "team_id": 1
+        },
+        {
+            "players": [
+                {
+                    "general_stats": {
+                        "WN8": 1087,
+                        "battles": 16807,
+                        "winrate": 50.15
+                    },
+                    "name": "odiemor",
+                    "performance": {
+                        "assisted_dmg": 0,
+                        "damage_dealt": 1956,
+                        "lifetime": 386,
+                        "survived": false
+                    },
+                    "tank": {
+                        "category": "Heavy Tank",
+                        "name": "IS-7",
+                        "nation": "USSR",
+                        "tier": 10
+                    },
+                    "tank_stats": {
+                        "WN8": 1225,
+                        "battles": 34,
+                        "damage": 1640,
+                        "winrate": 38.24
+                    }
+                }
+            ],
+            "spawn": "B",
+            "team_id": 2
+        }
+    ]
+}
